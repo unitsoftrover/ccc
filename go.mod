@@ -1,3 +1,3 @@
-module roverchen.github.com/ccc
+module github.com/unitsoftrover/ccc
 
 go 1.18
